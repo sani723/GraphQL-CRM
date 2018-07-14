@@ -1,0 +1,16 @@
+.table {
+    font-size: 0.8rem;
+    th {
+        padding-left: 20px;
+    }
+    .tools {
+        float: right;
+        font-size: 0;
+        display: none;
+    }
+}
+.user-avatar {
+    max-width: 17%;
+    border-radius: 50%;
+    margin-right: 10px;
+}

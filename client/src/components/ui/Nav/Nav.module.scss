@@ -1,0 +1,22 @@
+.sa-top-header {
+    background-color: #fff;
+    border-bottom: 1px solid #e6e6e6;
+    padding: 0;
+    .sa-navba-header {
+      width: 230px;
+    }
+    .sa-navbar-right {
+      width: calc(100% - 230px);
+    }
+    .navbar-brand {
+      line-height: 60px;
+      height: 60px;
+      width: 142px;
+      background-image: url('./images/logo.png');
+      background-repeat: no-repeat;
+      background-position: 20px center;
+      padding: 0 20px;
+      margin: 0;
+      display: block;
+    }
+  }

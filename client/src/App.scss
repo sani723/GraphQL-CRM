@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    background-color: #eee !important;
+    height: auto;
+    min-height: 100%;
+    line-height: 1.42857143;
+}
+#dubai {
+    min-height: 100%;
+    padding-top: 60px;
+}
+.sa-content {
+    position: relative;
+    left: 0;
+    margin-left: 230px;
+    min-height: 100%;
+}
+.main-content {
+    padding: 25px;
+}
+
+.widget {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 3px;
+    &.widget-tile {
+        padding: 24px 20px;
+        margin-bottom: 25px;
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+    }
+}
