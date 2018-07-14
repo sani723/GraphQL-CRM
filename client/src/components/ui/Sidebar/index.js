@@ -1,12 +1,13 @@
 import * as React from 'react';
+import { Link } from 'react-router-dom';
 import SidebarStyles from './Sidebar.module.scss';
 
 const Sidebar = () => {
     return (
         <div className={SidebarStyles['sa-left-sidebar']}>
         <ul className="sidebar-elements">
-        <li className="divider">Menu</li>
-        <li className="active"><a href="index.html"><i className="icon mdi mdi-home"></i><span>Dashboard</span></a>
+        <li className="active">
+            <Link to="/"><i className="icon mdi mdi-home"></i><span>Dashboard</span></Link>
         </li>
         
             <li><a href="ui-alerts.html">Alerts</a>
