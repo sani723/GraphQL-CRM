@@ -1,0 +1,155 @@
+{
+	"Campaign": [{
+			"CampaignId": 3636,
+			"ProductCode": "CL02-B",
+			"ProductTitle": "Cupid Tee",
+			"Category": "CR",
+			"CategoryTitle": "Cars",
+			"CampaignCode": "CR-00002",
+			"DisplayPercentageSold": 12,
+			"ProductPrice": 380.000000000,
+			"ProductPriceAed": 380.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/cupidtee/cam-tshirt-280x180-1.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/product-images/cupidtee/dashboard-tshirt-2.png",
+			"PrizeTitle": "The all new Mercedes G63 2019",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/g63-amg/cam-mercedesg63-280x180.png",
+			"WebpageUrl": "https://www.idealz.com/buy-cupid-tee-win-mercedes-g63-amg/",
+			"TotalCount": 3000,
+			"UnitsRemaining": 2632,
+			"ProductIntro": "Made from 100% cotton, our cupid’s arrow Tee is all about sharing the love.",
+			"PrizeIntro": "Wherever the Mercedes G63 AMG shows its face, it is met with nothing but awe. Its passion, perfection and power make every journey feel like a victory."
+
+		},
+		{
+
+			"CampaignId": 3977,
+			"ProductCode": "CL03-B",
+			"ProductTitle": "Haku Cap",
+			"Category": "LS",
+			"CategoryTitle": "Lifestyle",
+			"CampaignCode": "LS-00005",
+			"DisplayPercentageSold": 14,
+			"ProductPrice": 500.000000000,
+			"ProductPriceAed": 500.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/haku-cap/cam-hakucap-280x180.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/product-images/haku-cap/dashboard-hakucap.png",
+			"PrizeTitle": "VIP Plate: S 607",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/s607/cam-s607-280x180.png",
+			"WebpageUrl": "https://www.idealz.com/buy-haku-cap-win-dubai-plate-S607/",
+			"TotalCount": 725,
+			"UnitsRemaining": 622,
+			"ProductIntro": "The ‘Haku’ six panel snapback baseball cap is part of the Idealz 2018 premium lifestyle clothing collection. Featuring a flat design of our logo, the ‘Haku’ was designed for both fashion casual wear and sports.",
+			"PrizeIntro": "Prestigious, exclusive and highly sought after, set off in style with this exclusive VIP number plate brought to you by Idealz."
+
+		},
+		{
+			"CampaignId": 4101,
+			"ProductCode": "CL03-A",
+			"ProductTitle": "Haku Cap",
+			"Category": "CG",
+			"CategoryTitle": "Cash",
+			"CampaignCode": "CG-00024",
+			"DisplayPercentageSold": 23,
+			"ProductPrice": 500.000000000,
+			"ProductPriceAed": 500.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/haku-cap/cam-hakucap-280x180.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/product-images/haku-cap/dashboard-hakucap.png",
+			"PrizeTitle": "Cash AED 10,000",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/cash-new/cam-cash-280x180.png",
+			"WebpageUrl": "https://www.idealz.com/buy-haku-cap-win-cash-prize-24/",
+			"TotalCount": 35,
+			"UnitsRemaining": 27,
+			"ProductIntro": "The ‘Haku’ six panel snapback baseball cap is part of the Idealz 2018 premium lifestyle clothing collection. Featuring a flat design of our logo, the ‘Haku’ was designed for both fashion casual wear and sports.",
+			"PrizeIntro": "Need a holiday? Maybe you have a birthday or a special event coming up? Whether you want to buy something special or simply pay a bill, AED 10,000 will always come in useful."
+
+		},
+		{
+			"CampaignId": 3177,
+			"ProductCode": "CL01-B",
+			"ProductTitle": "Hashtag Tee",
+			"Category": "CG",
+			"CategoryTitle": "Cash",
+			"CampaignCode": "CG-00016",
+			"DisplayPercentageSold": 58,
+			"ProductPrice": 360.000000000,
+			"ProductPriceAed": 360.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/hashtag-tee/cam-tshirt-280x180.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/mobile_app/audemars/dashboard-tshirt-3.png",
+			"PrizeTitle": "Cash AED 100,000",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/cash-new/cam-cash-280x180.png",
+			"WebpageUrl": "https://www.idealz.com/buy-tshirt-win-cash-prize-16/",
+			"TotalCount": 500,
+			"UnitsRemaining": 209,
+			"ProductIntro": "Made from 100% cotton, our Hashtag Tee is made to mirror management mind-set - generate and be generous.",
+			"PrizeIntro": "You’ve asked and we’ve delivered, welcome to our AED 100,000 cash prize draw! This is our biggest cash prize to date and it’s only going to get bigger and better from here. Be sure to enter this must-have draw, as one lucky winner will walk away with AED 100,000 in cash! The only question is, will it be you?"
+		},
+		{
+
+			"CampaignId": 3896,
+			"ProductCode": "ST07-A",
+			"ProductTitle": "Twain Set",
+			"Category": "CG",
+			"CategoryTitle": "Cash",
+			"CampaignCode": "CG-00020",
+			"DisplayPercentageSold": 89,
+			"ProductPrice": 185.000000000,
+			"ProductPriceAed": 185.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/journal--pen/journal-and-pen-set_280x180_1x.png",
+
+			"WebpageUrl": "https://www.idealz.com/buy-twain-set-win-gold-20/",
+			"TotalCount": 150,
+			"UnitsRemaining": 17,
+
+			"ProductIntro": "The Twain is our combination writing set made from recycled fibre composite. This A5 blank sketch book is the perfect companion for the amateur or professional creative.",
+			"PrizeIntro": "One of the most sought after and traded commodities in the world, this global currency remains a welcome addition to any portfolio."
+
+		},
+		{
+			"CampaignId": 3496,
+			"ProductCode": "CL02-A",
+			"ProductTitle": "Cupid Tee",
+			"Category": "JW",
+			"CategoryTitle": "Watches",
+			"CampaignCode": "JW-00004",
+			"DisplayPercentageSold": 53,
+			"ProductPrice": 380.000000000,
+			"ProductPriceAed": 380.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/cupidtee/cam-tshirt-280x180-1.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/product-images/cupidtee/dash-cupid.png",
+			"PrizeTitle": "Rolex Datejust 41",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/rolex-datejust/cam-datejust-280x180.png",
+
+			"WebpageUrl": "https://www.idealz.com/buy-cupid-tee-win-rolex-datejust-41/",
+			"TotalCount": 275,
+			"UnitsRemaining": 128,
+
+			"ProductIntro": "Made from 100% cotton, our cupid’s arrow T is all about sharing the love.",
+			"PrizeIntro": "The Rolex Datejust is the modern archetype of the classic watch, thanks to aesthetics and functions that transcend changes in fashion. Aesthetically, the Datejust has spanned eras, while retaining the enduring codes that make it, notably in its traditional versions, one of the most recognised and recognisable of watches."
+
+		},
+		{
+
+			"CampaignId": 4039,
+			"ProductCode": "ST07-B",
+			"ProductTitle": "Twain Set",
+			"Category": "JW",
+			"CategoryTitle": "Watches",
+			"CampaignCode": "JW-00005",
+			"DisplayPercentageSold": 29,
+			"ProductPrice": 185.000000000,
+			"ProductPriceAed": 185.000000000,
+			"ProductImage": "https://www.idealz.com/globalassets/media/product-images/journal--pen/journal-and-pen-set_280x180_1x.png",
+			"MobileProductImage": "https://www.idealz.com/globalassets/media/product-images/journal--pen/journelandpen.png",
+			"PrizeTitle": "Van Cleef & Arpels, Vintage bracelet",
+			"PrizeImage": "https://www.idealz.com/globalassets/media/campaigns/vancleefvintage/cam-vancleefarpels-280x180.png",
+
+			"WebpageUrl": "https://www.idealz.com/buy-twain-set-win-van-cleef-arpels-vintage-bracelet/",
+			"TotalCount": 165,
+			"UnitsRemaining": 117,
+
+			"ProductIntro": "The Twain is our combination writing set made from recycled fibre composite. This A5 blank sketch book is the perfect companion for the amateur or professional creative.",
+			"PrizeIntro": "Faithful to the very first Alhambra® jewel created in 1968, the Vintage Alhambra creations by Van Cleef & Arpels are distinguished by their unique, timeless elegance. Inspired by the clover leaf, these icons of luck are adorned with a border of golden beads.\n\nReflecting Van Cleef & Arpels’ tradition of excellence, Alhambra is constantly renewed as time goes by, through a wide range of natural materials that are symbols of luck, thus offering an infinite variety of colors."
+
+		}
+	]
+}

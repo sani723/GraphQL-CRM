@@ -5,6 +5,8 @@ const UsersModel = require("../models/users");
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
+const campaignsList = require('../data/campaigns.json');
+
 const resolvers = {
   Query: {
     getContacts: (parent, args, context, info) => {
@@ -25,7 +27,10 @@ const resolvers = {
         return UsersModel.countDocuments({},null, function(err, result){
             return result;
         });
-    }
+    },
+    getCampaigns:  (parent, args, context, info) => {
+        return campaignsList.Campaign;
+    },
   },
   Contact: {
     fullName: (parent, args, context, info) => {

@@ -1,16 +1,16 @@
 import * as React from "react";
+import cx from 'classnames';
 import Contacts from "./components/container/Contacts";
 import TotalContacts from './components/ui/Contacts';
 import AddContact from './components/container/Contacts/AddContact';
 
-import './App.scss';
+import AppStyles from './App.module.scss';
 
 class App extends React.Component {
   render() {
     return (
-        <React.Fragment>
-          <div className="sa-content">
-            <div className="main-content container-fluid">
+          <div className={cx(AppStyles['sa-content'])}>
+            <div className={cx("container-fluid",AppStyles['main-content'])}>
 
               <div className="row">
                 <div className="col-12 col-lg-6 col-xl-3">
@@ -29,7 +29,6 @@ class App extends React.Component {
               
             </div>
           </div>
-        </React.Fragment>
     );
   }
 }

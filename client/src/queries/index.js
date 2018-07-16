@@ -27,4 +27,26 @@ const TOTAL_CONTACTS = gql`
 `;
 
 
-export {GET_CONTACTS, ADD_CONTACT, TOTAL_CONTACTS};
+const GET_CAMPAIGNS = gql`
+    {
+        getCampaigns {
+            CampaignId
+            ProductCode
+            ProductTitle
+            Category
+            CategoryTitle
+            CampaignCode
+            DisplayPercentageSold
+            ProductPrice
+            ProductImage
+            PrizeTitle
+            PrizeImage
+            WebpageUrl
+            TotalCount
+            UnitsRemaining
+        }
+    }
+`;
+
+
+export {GET_CONTACTS, ADD_CONTACT, TOTAL_CONTACTS, GET_CAMPAIGNS};

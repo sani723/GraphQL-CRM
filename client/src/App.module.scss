@@ -17,18 +17,5 @@ body {
 }
 .main-content {
     padding: 25px;
-}
-
-.widget {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 25px;
-    border-radius: 3px;
-    &.widget-tile {
-        padding: 24px 20px;
-        margin-bottom: 25px;
-        display: table;
-        table-layout: fixed;
-        width: 100%;
-    }
+    margin-top: 50px;
 }

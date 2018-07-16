@@ -1,0 +1,33 @@
+.wrapper {
+    composes: sa-content from '../../../App.module.scss'; 
+}
+.campaign-wrapper {
+    max-width: 1202px;
+    position: relative;
+}
+.campaign-detail {
+    padding: 4.5rem 0 10rem;
+    display: flex;
+    flex-direction: row;
+    transition: all ease .5s;
+    box-shadow: 0 0 0.6rem 0 rgba(0,0,0,.14);
+    border-radius: 2rem;
+    background: #fff;
+    justify-content: center;
+    width: 100%;
+}
+.product-column {
+    min-width: 110px;
+    width: 100%;
+    justify-content: flex-start;
+    background: 0 0;
+    position: static!important;
+}
+.product-image {
+    display: block!important;
+    text-align: center;
+}
+.prod-img {
+    height: 16rem;
+    margin-bottom: 2.6rem;
+}
