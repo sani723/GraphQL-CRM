@@ -1,8 +1,8 @@
 import gql from "graphql-tag";
 
 const GET_CONTACTS = gql`
-    {
-        getContacts {
+    query getContacts($limit: Int) {
+        getContacts(limit: $limit) {
             id
             firstName
             lastName

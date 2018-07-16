@@ -12,7 +12,7 @@ const typeDefs = gql`
   
   type Query {
     getContact(id: ID): Contact
-    getContacts: [Contact]
+    getContacts(limit: Int): [Contact]
     totalContacts: Int
   }
 

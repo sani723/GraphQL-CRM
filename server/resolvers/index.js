@@ -8,11 +8,15 @@ const Schema = mongoose.Schema;
 const resolvers = {
   Query: {
     getContacts: (parent, args, context, info) => {
-      //return contactsList;
-      return UsersModel.find({}, null, {sort: {_id: -1}}, function(err, data) {  
-        //console.log(data);
-        return data;
-      });
+        if(args.limit != undefined) {
+            return UsersModel.find({}, null, {sort: {_id: -1}, limit: 5}, function(err, data) {  
+                return data;
+            });
+        } else {
+            return UsersModel.find({}, null, {sort: {_id: -1}}, function(err, data) {  
+                return data;
+            });
+        }
     },
     getContact: (parent, args, context, info) => {
       //return UsersModel.findById(mongoose.Types.ObjectId(args.id));

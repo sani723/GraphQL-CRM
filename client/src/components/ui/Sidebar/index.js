@@ -6,7 +6,7 @@ const Sidebar = () => {
     return (
         <div className={SidebarStyles['sa-left-sidebar']}>
             <ul className="sidebar-elements">
-                <li><Link to="/">Dashboard</Link></li>
+                <li><Link to="/">Home</Link></li>
                 <li><Link to="/campaigns">Our Campaigns</Link></li>
                 <li><Link to="/profile">Profile</Link></li>
             </ul>

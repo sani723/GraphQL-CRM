@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Mutation } from "react-apollo";
-import { ADD_CONTACT, GET_CONTACTS } from '../../../queries';
+import { ADD_CONTACT, GET_CONTACTS, TOTAL_CONTACTS } from '../../../queries';
 
 class AddContact extends React.Component {
     constructor(props) {
@@ -53,7 +53,7 @@ class AddContact extends React.Component {
                                     lastName: this.state.lastName,
                                     avatarUrl: this.state.avatarUrl
                                 },
-                                refetchQueries: [ {query: GET_CONTACTS} ]
+                                refetchQueries: [ {query: GET_CONTACTS},{query: TOTAL_CONTACTS} ]
                             }).then( res => {
                                 this.setState({
                                     firstName: '',
