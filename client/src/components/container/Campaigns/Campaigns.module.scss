@@ -31,3 +31,6 @@
     height: 16rem;
     margin-bottom: 2.6rem;
 }
+:global(.myclass) {
+    background-color: red;
+  }
